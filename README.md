@@ -1,25 +1,25 @@
 # app-dev
 My first repository
-# My Favorite Movie Series: Star Wars (Original Trilogy)
+# My Favorite Series: Mobile Suit Gundam (Universal Century)
 
-> **"May the Force be with you."** - Obi-Wan Kenobi
+> "The hardest part about fighting is the first step. You have to be ready to sacrifice something." - Char Aznable
 
 ---
 
 ### **Overview**
-The **original Star Wars trilogy** is comprised of the films *A New Hope*, *The Empire Strikes Back*, and *Return of the Jedi*. They redefined the sci-fi and fantasy genres and created one of the most enduring sagas in cinematic history.
+**Mobile Suit Gundam** (1979) is the anime that launched the entire **mecha genre** into a new era. The Universal Century timeline is famous for its **darker themes**, **complex political drama**, and focus on the human cost of war, rather than just giant robot battles.
 
-### **Key Films & Release Years**
-| Title | Release Year | Director |
+### **Key Universal Century Series**
+| Title | Key Mobile Suit | Year (In-Universe) |
 | :--- | :--- | :--- |
-| **A New Hope** | 1977 | George Lucas |
-| **The Empire Strikes Back** | 1980 | Irvin Kershner |
-| **Return of the Jedi** | 1983 | Richard Marquand |
+| **Mobile Suit Gundam** | RX-78-2 Gundam | UC 0079 |
+| **Zeta Gundam** | MSZ-006 Zeta Gundam | UC 0087 |
+| **Char's Counterattack** | RX-93 Nu Gundam | UC 0093 |
 
-### **Why It's Legendary**
-1.  **Iconic Characters:** Luke Skywalker, Princess Leia, Han Solo, and Darth Vader.
-2.  **Groundbreaking Visual Effects:** The models and special effects were revolutionary for their time.
-3.  **Mythic Storytelling:** It follows a classic hero's journey structure.
-4.  The **lightsaber** battles are unparalleled!
+### **Core Themes I Love**
+1.  **Newtypes:** The concept of evolved humans and their role in warfare.
+2.  **Anti-War Message:** The series consistently critiques militarism and the cycle of violence.
+3.  **Real Robot Aesthetic:** The focus on mechanics, logistics, and limited energy.
+4.  The rivalry between **Amuro Ray** and **Char Aznable** is one of the best in fiction!
 
-I've always believed **Han shot first.**
+I always recommend starting with the original **Mobile Suit Gundam** series.
